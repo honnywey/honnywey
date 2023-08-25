@@ -40,4 +40,4 @@ In my free time, you'll find me engrossed in games, enjoying movies, and also cr
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/honnywey/)
 [![Email](https://img.shields.io/badge/-Email-FF0000?style=flat&logo=Gmail&logoColor=white)](mailto:honnywey@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/honnywey/)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/honnywey/)
+[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/luhnh/)
